@@ -1,9 +1,7 @@
-== Ruby on Rails Tutorial: first application (ROR学习)
+== Ruby on Rails Tutorial: first application 
 
 
-
-
-== Getting Started
+(ROR学习)
 
 1. At the command prompt, create a new Rails application:
        <tt>rails new myapp</tt> (where <tt>myapp</tt> is the application name)
